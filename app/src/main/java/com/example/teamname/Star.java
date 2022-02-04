@@ -1,4 +1,4 @@
 package com.example.teamname;
 
-public class Star {
+public class Star extends Shape {
 }
